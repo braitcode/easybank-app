@@ -11,7 +11,7 @@ const Footer = () => {
     <>
       <div className="bg-DarkBlue w-full xl:h-[250px] h-auto flex items-center">
         <div className="container w-11/12 mx-auto flex flex-col items-center xl:flex xl:justify-center xl:flex-row  py-8">
-          <div className="xl:w-[80%] xl:flex xl:justify-between xl:items-center">
+          <div className="xl:w-[90%] xl:flex xl:justify-between xl:items-center">
 
             {/* Left section with logo and social icons */}
             <div className="flex flex-col gap-4 items-center xl:items-start mb-8 xl:mb-0">

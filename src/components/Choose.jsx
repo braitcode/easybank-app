@@ -4,9 +4,9 @@ import { choose } from './db/data';
 const Choose = () => {
   return (
     <>
-      <div className="bg-LightGrayishBlue w-full xl:h-[650px] flex justify-center items-center">
+      <div className="bg-LightGrayishBlue xl:w-full xl:h-[650px] flex justify-center items-center">
         <div className="container lg:w-11/12 m-auto flex justify-center items-center">
-          <div className="xl:w-[80%] w-[90%] flex flex-col gap-8">
+          <div className="xl:w-[100%] w-[90%] flex flex-col gap-8">
             <div className="xl:flex xl:flex-col xl:items-start flex flex-col justify-center items-center gap-6">
               <h1 className="xl:text-[43px] text-[35px] text-center">
                 Why Choose Easybank?

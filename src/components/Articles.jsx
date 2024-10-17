@@ -6,7 +6,7 @@ const Articles = () => {
     <>
         <div className="w-full xl:h-[700px] flex justify-center items-center">
             <div className="container lg:w-11/12 m-auto flex justify-center items-center">
-                <div className="xl:w-[80%] w-[90%] flex flex-col gap-6">
+                <div className="xl:w-[100%] w-[90%] flex flex-col gap-6">
                     <div className="flex justify-center xl:justify-start">
                         <h1 className='text-[43px]'>Latest Articles</h1>
                     </div>
